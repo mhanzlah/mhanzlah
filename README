@@ -4,7 +4,7 @@ Hi, I'm Hanzla
 Current Projects
 ----------------
 
-* hsh: A Unix-like shell written in C
+* hsh: A Unix shell for process execution (https://github.com/mhanzlah/hsh)
 * vernier-c: Machine learning in C, from scratch
 * httpd: HTTP/1.1 server built from scratch in C
 
